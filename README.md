@@ -1,4 +1,4 @@
 # TheActualFirstOne
-Learning from Apna college. 
-Itseems I am the author of this repository. 
+Learning from Apna college. <br>
+Itseems I am the author of this repository. <br> 
 SO LESSGOOOOO
